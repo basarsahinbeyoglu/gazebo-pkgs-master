@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>kuka_launch</name>
+  <name>grasp_plugin</name>
   <version>0.0.0</version>
-  <description>The kuka_launch package</description>
+  <description>The Grasp Plugin Package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
